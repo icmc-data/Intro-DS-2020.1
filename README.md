@@ -1,9 +1,8 @@
 # Intro-DS-2020.1
+
 Material for the ML/DS course developed by DATA for 2020.
 
 This repository contains class lectures, slides, demos and exercised for the 2019 ML/DS introduction class given by the extracurricular group DATA. Except all information onwards to be in Portuguese.
-
-# Repositório Introdução a Ciência de Dados 2020.
 
 Esse repositório serve para a divulgação dos materiais que mostramos durante as aulas. O curso foi feito para se acompanhar as aulas presencialmente, então se estiver um material online, veja nosssas recomendações abaixo.
 
