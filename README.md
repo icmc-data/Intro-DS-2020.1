@@ -13,7 +13,7 @@ Fizermos no fim de 2018 uma lista de [_resources_ de DS](https://docs.google.com
 
 ## Aulas
 
-Aula 01 - Revisão de Matemática e Programação para DS. [slides](https://docs.google.com/presentation/d/e/2PACX-1vTRqcBfsfk6DIHc2pWS0mV8I4o-LR8rIVhS5DKuh6rWfnCA4pcFsX-NmLjXtFqpIyNOPDlz3JUninLd/pub?start=false&loop=false&delayms=60000); lição disponível na quinta
+Aula 01 - Revisão de Matemática e Programação para DS. [slides](https://docs.google.com/presentation/d/e/2PACX-1vTRqcBfsfk6DIHc2pWS0mV8I4o-LR8rIVhS5DKuh6rWfnCA4pcFsX-NmLjXtFqpIyNOPDlz3JUninLd/pub?start=false&loop=false&delayms=60000); ATUALIZAÇÃO: lição disponível na sexta-feira (06/03) e não será mais obrigatoria para o certificado.
 
 ## O que devo ter instalado?
 A grande maioria dos código serão em ***python 3*** então além do próprio python serão necessárias as seguintes bibliotecas (com o tempo mais coisas serão adicionadas):
