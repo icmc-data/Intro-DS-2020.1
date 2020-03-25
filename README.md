@@ -13,7 +13,18 @@ Fizermos no fim de 2018 uma lista de [_resources_ de DS](https://docs.google.com
 
 ## Aulas
 
-Aula 01 - Revisão de Matemática e Programação para DS. [slides](https://docs.google.com/presentation/d/e/2PACX-1vTRqcBfsfk6DIHc2pWS0mV8I4o-LR8rIVhS5DKuh6rWfnCA4pcFsX-NmLjXtFqpIyNOPDlz3JUninLd/pub?start=false&loop=false&delayms=60000); ATUALIZAÇÃO: lição disponível na sexta-feira (06/03) e não será mais obrigatoria para o certificado.
+#### Aula 00 - Revisão de Matemática e Programação para DS.
+[Slides](https://docs.google.com/presentation/d/e/2PACX-1vTRqcBfsfk6DIHc2pWS0mV8I4o-LR8rIVhS5DKuh6rWfnCA4pcFsX-NmLjXtFqpIyNOPDlz3JUninLd/pub?start=false&loop=false&delayms=60000); ATUALIZAÇÃO: lição disponível na sexta-feira (06/03) e não será mais obrigatoria para o certificado.
+
+#### Aula 01 - Introdução a Ciência de Dados e K-NN.
+
+- [Intro a DS](https://github.com/icmc-data/Intro-DS-2020.1/blob/master/Aula1/Aula%201%20-%20Intro.pdf)
+- [KNN](https://github.com/icmc-data/Intro-DS-2020.1/blob/master/Aula1/Aula%201%20-%20KNN.pdf)
+- [Fazer os exercícios disponíveis](https://github.com/icmc-data/Intro-DS-2020.1/blob/master/Aula1/kNN.zip)
+
+#### Aula 02 - Introdução a Pandas e Numpy.
+- TODO
+
 
 ## O que devo ter instalado?
 A grande maioria dos código serão em ***python 3*** então além do próprio python serão necessárias as seguintes bibliotecas (com o tempo mais coisas serão adicionadas):
