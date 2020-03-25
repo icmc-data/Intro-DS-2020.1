@@ -23,7 +23,9 @@ Fizermos no fim de 2018 uma lista de [_resources_ de DS](https://docs.google.com
 - [Fazer os exercícios disponíveis](https://github.com/icmc-data/Intro-DS-2020.1/blob/master/Aula1/kNN.zip)
 
 #### Aula 02 - Introdução a Pandas e Numpy.
-- TODO
+- [Introdução a Pandas](https://github.com/icmc-data/Intro-DS-2020.1/blob/master/Aula2/introducao_pandas.ipynb)
+- Fazer os [exercícios](https://github.com/icmc-data/Intro-DS-2020.1/blob/master/Aula2/exercicios_pandas.ipynb) de Pandas e depois verificar a [resolução](https://github.com/icmc-data/Intro-DS-2020.1/blob/master/Aula2/exercicios_pandas_resolu%C3%A7%C3%A3o.ipynb)
+- Ver o material de [K-NN e Numpy](https://github.com/icmc-data/Intro-DS-2020.1/blob/master/Aula2/NumPy%20e%20KNN/NumPy%20e%20KNN.ipynb) e entender o K-NN com vetoriação.
 
 
 ## O que devo ter instalado?
