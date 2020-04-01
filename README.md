@@ -28,6 +28,12 @@ Fizermos no fim de 2018 uma lista de [_resources_ de DS](https://docs.google.com
 - Ver o material de [K-NN e Numpy](https://github.com/icmc-data/Intro-DS-2020.1/blob/master/Aula2/NumPy%20e%20KNN/NumPy%20e%20KNN.ipynb) e entender o K-NN com vetoriação.
 
 
+#### Aula 03 - Árvores de Decisão e introdução ao Scikit-Learn
+- [Slides](https://docs.google.com/presentation/d/e/2PACX-1vSuhnC8k28s1eSgQBf_TSgltiiX2pXCewDFiJpOn2R48Tc4_WsulaGyek4NNitUlEKf2Si_aWewrxFH/pub?start=false&loop=false&delayms=60000)
+- Gravação (espera uns dias...)
+- Exercícios daqui uns dias...
+
+
 ## O que devo ter instalado?
 A grande maioria dos código serão em ***python 3*** então além do próprio python serão necessárias as seguintes bibliotecas (com o tempo mais coisas serão adicionadas):
 
