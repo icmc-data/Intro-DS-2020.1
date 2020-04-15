@@ -34,6 +34,10 @@ Fizermos no fim de 2018 uma lista de [_resources_ de DS](https://docs.google.com
 - [Gravação](https://drive.google.com/file/d/1APjTUodrxoxsYFawt_x2KP5Yl3SLpsLX/view?usp=sharing)
 - Exercícios práticos na pasta; Teóricos [aqui](https://forms.gle/bUE2coVs23YkuvF8A).
 
+#### Aula 04 - Pré-processamento e Validação
+- [Notebook](https://github.com/icmc-data/Intro-DS-2020.1/blob/master/Aula4/Pr%C3%A9-processamento%20e%20valida%C3%A7%C3%A3o.ipynb)
+- Exercícios (em breve)
+
 
 ## O que devo ter instalado?
 A grande maioria dos código serão em ***python 3*** então além do próprio python serão necessárias as seguintes bibliotecas (com o tempo mais coisas serão adicionadas):
