@@ -38,6 +38,20 @@ Fizermos no fim de 2018 uma lista de [_resources_ de DS](https://docs.google.com
 - [Notebook](https://github.com/icmc-data/Intro-DS-2020.1/blob/master/Aula4/Pr%C3%A9-processamento%20e%20valida%C3%A7%C3%A3o.ipynb)
 - Exercícios (em breve)
 
+#### Aula 05 - Regressão Linear
+- [Slides](https://github.com/icmc-data/Intro-DS-2020.1/blob/master/Aula5/Aula%205%20-%20Regress%C3%A3o%20Linear%20EAD.pptx) 
+- [Exercícios](https://github.com/icmc-data/Intro-DS-2020.1/blob/master/Aula5/Exerc%C3%ADcios%20Pr%C3%A1ticos.ipynb)
+
+#### Aula 06 - Regressão Logística
+- [Slides](https://github.com/icmc-data/Intro-DS-2020.1/blob/master/Aula6/Aula%2006%20-%20Regress%C3%A3o%20Log%C3%ADstica%20EAD.pptx)
+
+#### Aula 07 - Pandas avançado
+- [Notebook](https://github.com/icmc-data/Intro-DS-2020.1/blob/master/Aula7/pandas2.0.ipynb)
+- [Exercícios](https://github.com/icmc-data/Intro-DS-2020.1/blob/master/Aula7/exerc%C3%ADcios_pandas2.0.ipynb)
+- [Solução](https://github.com/icmc-data/Intro-DS-2020.1/blob/master/Aula7/exerc%C3%ADcios_pandas2.0_resolu%C3%A7%C3%A3o.ipynb)
+
+#### Aula 08 - Introdução a Redes Neurais
+- [Slides](https://github.com/icmc-data/Intro-DS-2020.1/blob/master/Aula8/Aula%208%20-%20Redes%20Neurais.pptx)
 
 ## O que devo ter instalado?
 A grande maioria dos código serão em ***python 3*** então além do próprio python serão necessárias as seguintes bibliotecas (com o tempo mais coisas serão adicionadas):
