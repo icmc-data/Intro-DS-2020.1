@@ -53,6 +53,10 @@ Fizermos no fim de 2018 uma lista de [_resources_ de DS](https://docs.google.com
 #### Aula 08 - Introdução a Redes Neurais
 - [Slides](https://github.com/icmc-data/Intro-DS-2020.1/blob/master/Aula8/Aula%208%20-%20Redes%20Neurais.pptx)
 
+#### Aula 09 - Introdução a Support Vector Machines (SVM)
+- [Slides](https://github.com/icmc-data/Intro-DS-2020.1/blob/master/Aula9/Aula%209%20-%20SVM.pptx)
+
+
 ## O que devo ter instalado?
 A grande maioria dos código serão em ***python 3*** então além do próprio python serão necessárias as seguintes bibliotecas (com o tempo mais coisas serão adicionadas):
 
