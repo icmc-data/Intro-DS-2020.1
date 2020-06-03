@@ -56,6 +56,9 @@ Fizermos no fim de 2018 uma lista de [_resources_ de DS](https://docs.google.com
 #### Aula 09 - Introdução a Support Vector Machines (SVM)
 - [Slides](https://github.com/icmc-data/Intro-DS-2020.1/blob/master/Aula9/Aula%209%20-%20SVM.pptx)
 
+#### Aula 10 - Naive Bayes
+- [Slides](https://github.com/icmc-data/Intro-DS-2020.1/blob/master/Aula10/'Aula%2010%20-%20Naive%20Bayes.pptx')
+
 
 ## O que devo ter instalado?
 A grande maioria dos código serão em ***python 3*** então além do próprio python serão necessárias as seguintes bibliotecas (com o tempo mais coisas serão adicionadas):
